@@ -22,7 +22,6 @@ export const DATA = {
     "MySQL",
     "Postgres",
     "Django",
-    "",
     "C",
     "Java",
   ],
