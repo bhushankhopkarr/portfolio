@@ -4,7 +4,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Bhushan Khopkar",
   initials: "BK",
-  url: "https://dillion.io",
+  url: "https://www.linkedin.com/in/bhushankhopkrr/",
   location: "Mumbai, IN",
   locationLink: "https://www.google.com/maps/place/mumbai",
   description:
@@ -78,7 +78,7 @@ export const DATA = {
   education: [
     {
       school: "University of Mumbai",
-      href: "https://buildspace.so",
+      href: "https://mu.ac.in/",
       degree: "B.E. CSE (AI & ML)",
       logoUrl: "/mu.png", 
       start: "2022",
