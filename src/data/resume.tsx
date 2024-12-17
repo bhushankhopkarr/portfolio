@@ -173,7 +173,7 @@ export const DATA = {
     },
   ],
   hackathons: [
-    /*{
+    {
       title: "Smart India Hackaton",
       dates: "November 23rd - 25th, 2024",
       location: "Mumbai, IN",
@@ -183,6 +183,6 @@ export const DATA = {
         "/SIH.png",
       mlh: "",
       links: [],
-    },*/
+    },
   ],
 } as const;
